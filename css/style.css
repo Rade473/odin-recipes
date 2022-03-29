@@ -1,0 +1,27 @@
+button {
+    background-color: darksalmon;
+    color: darkslategrey;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img {
+    height: 200px;
+    width: 300px;
+}
+.description {
+    font-style: oblique;
+    font-size: 20px;
+}
+ul li {
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#steps {
+    color: rgb(63, 4, 4);
+    background-color: beige;
+}
+strong { 
+    background-color: beige;
+}
